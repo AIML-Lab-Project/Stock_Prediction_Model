@@ -8,10 +8,10 @@ The entire project runs in a single Google Colab notebook.
 
 ## PREVIEW
 
-### GRAPH 1: HISTORICAL ANALYSIS WITH SMA & TRADING SIGNALS
+### HISTORICAL ANALYSIS WITH SMA & TRADING SIGNALS
 <img width="1151" height="624" alt="image" src="https://github.com/user-attachments/assets/05ad568f-58c4-4ef8-95b0-a4e93bda199e" />
 
-### GRAPH 2: 7-DAY AI-POWERED PRICE FORECAST
+### 7-DAY AI-POWERED PRICE FORECAST
 <img width="1151" height="624" alt="image" src="https://github.com/user-attachments/assets/95da26a0-0a29-4803-9d46-299828d2587b" />
 
 ## FEATURES
